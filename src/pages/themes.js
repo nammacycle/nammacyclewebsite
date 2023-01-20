@@ -1,14 +1,8 @@
-import React from "react";
-import clsx from "clsx";
-import Layout from "@theme/Layout";
-import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import styles from "./index.module.css";
-import HomepageFeatures from "../components/HomepageFeatures";
-import HomepageMasonry from "../components/HomepageMasonry";
+import React from "react"; 
+import Layout from "@theme/Layout"; 
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext"; 
 import Herosection from "../components/homepage/Herosection"
-
-import HomepageTailFeature from "../components/HomepageTailFeature";
+ 
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
