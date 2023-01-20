@@ -26,12 +26,12 @@ export default function Feature1 () {
  
          <div className="max-w-xl px-6 py-12 lg:max-w-5xl lg:w-1/2">
              <h2 className="text-2xl font-semibold text-gray-800 dark:text-white md:text-3xl">
-             Namma Cycle Bike Share  <br></br>  Namma Cycle Tours   <br></br> Offering products and services; <span className="text-blue-500"> for bicycle community</span>
+            Cargo high quality <br></br>    <br></br> Offering products and services; <span className="text-blue-500"> for bicycle community</span>
              </h2>
  
              <p className="mt-4 text-gray-500 dark:text-gray-300">
-             Cycle Tourism & 
-             Urban Bicycle Sharing 
+             Deliver high quality, low maintenance cargo bicycles with
+unmatched features, at a fair price for the B2B market
              </p>
  
              <div className="inline-flex w-full mt-6 sm:w-auto">

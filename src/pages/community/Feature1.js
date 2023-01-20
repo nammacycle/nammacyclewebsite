@@ -35,9 +35,7 @@ export default function Feature1 () {
              </p>
  
              <div className="inline-flex w-full mt-6 sm:w-auto">
-                 <a href="#" className="inline-flex items-center justify-center w-full px-6 py-2 text-sm text-white duration-300 bg-gray-800 rounded-lg hover:bg-gray-700 focus:ring focus:ring-gray-300 focus:ring-opacity-80">
-                     Start Now
-                 </a>
+              
              </div>
          </div>
      </div>
